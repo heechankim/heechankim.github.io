@@ -15,6 +15,7 @@ const config = {
   favicon: 'img/favicon.ico',
   organizationName: 'heechankim', // Usually your GitHub org/user name.
   projectName: 'heechankim.github.io', // Usually your repo name.
+  deploymentBranch: 'gh-pages',
 
   presets: [
     [
